@@ -1,0 +1,9 @@
+{
+    "manifest_version": 2,
+    "name": "Wonderful wallpaper",
+    "version": "1.0",
+    "description": "geksagon",
+    "chrome_url_overrides" : {
+        "newtab": "index.html"
+      }
+ }
